@@ -1,5 +1,5 @@
 # MATH 285: Intro Differential Equations @ ZJUI Spring 2023 by Bryan Wang
-[Bryan Wang](https://github.com/Wang-Boyao) | MATH 285: Intro Differential Equations, Spring 2023  
+[Bryan Wang](https://github.com/Beryex) | MATH 285: Intro Differential Equations, Spring 2023  
 Instructor:   
 [Honold Thomas](https://zjui.intl.zju.edu.cn/node/775) @ Zhejiang University - University of Illinois Urbana-Champaign Institute  
 
